@@ -6,8 +6,8 @@ A complete multi-role E-Commerce website powered by **Node.js**, **Express**, an
 
 ## 🌐 Live Demo
 
-🔗 **Deployed Site:** [https://scatch-e-commerce-4.onrender.com/](https://scatch-e-commerce-4.onrender.com/)
-
+🔗 **Deployed Site:** [https://scatch-e-commerce-4.onrender.com/](https://scatch-e-commerce-4.onrender.com/) 
+🔗 **Deployed Site:** [https://scatch-6sgl.onrender.com/)(IN CASE DOES NOT WORK).
 ---
 
 ## 🧰 Tech Stack
