@@ -78,7 +78,7 @@ SCATCH-E-COMMERCE/
 ---
 
 ## 👤 Author
-**Seefat Noor**  
+**SEEFAT**  
 🎓 G.L Bajaj Institute of Technology and Management  
 🔗 LinkedIn: [www.linkedin.com/in/seefat12](https://www.linkedin.com/in/seefat12)
 
